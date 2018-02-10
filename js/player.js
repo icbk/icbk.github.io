@@ -224,21 +224,21 @@
 		}
 	});		
 
-	// $("#QPlayer .ssBtn").on('click', function(){
-	// 	var mA = $("#QPlayer");
-	// 	if ($('.ssBtn .adf').hasClass('on') === false) {
-	// 		if (isFirstPlay) {
-	// 		    setTimeout("showTips('#player .cover','点击封面开启(关闭)随机播放', " + function(){setTimeout("showTips('#player .ctrl .musicTag','点击拖动标题栏快进(快退)')", 1000)} + ");", 500);
-	// 		    isFirstPlay = !isFirstPlay;
-	// 		    localStorage.qplayer = 'false';
-	// 		}
-	// 		mA.css("transform", "translateX(250px)");
-	// 	    $('.ssBtn .adf').addClass('on');
-	// 	} else {	
-	// 		mA.css("transform", "translateX(0px)");
- //            $('.ssBtn .adf').removeClass('on') 	
-	// 	}
-	// }); 
+	$("#QPlayer .ssBtn").on('click', function(){
+		var mA = $("#QPlayer");
+		if ($('.ssBtn .adf').hasClass('on') === false) {
+			if (isFirstPlay) {
+			    setTimeout("showTips('#player .cover','点击封面开启(关闭)随机播放', " + function(){setTimeout("showTips('#player .ctrl .musicTag','点击拖动标题栏快进(快退)')", 1000)} + ");", 500);
+			    isFirstPlay = !isFirstPlay;
+			    localStorage.qplayer = 'false';
+			}
+			mA.css("transform", "translateX(250px)");
+		    $('.ssBtn .adf').addClass('on');
+		} else {	
+			mA.css("transform", "translateX(0px)");
+            $('.ssBtn .adf').removeClass('on') 	
+		}
+	}); 
 
 	$("#player .cover").on('click',function(){
 		isShuffle = !isShuffle;
