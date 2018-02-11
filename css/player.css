@@ -19,7 +19,7 @@
 	height:60px;
 	margin:0 auto;
 	position:relative;
-	background:rgb(255,255,255);
+	background: rgba(84, 86, 0, 0.19);
 	box-sizing:border-box;
 }
 #player .cover {
