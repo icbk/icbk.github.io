@@ -8,7 +8,7 @@ tags:
 - 简述
 - 关于
 - Liber
-- Xue
+- feed
 - 坐井观天阔
 redirect_from:
   - /about/
@@ -18,13 +18,13 @@ redirect_from:
 
  来点介绍吧！自己改
 
-##  贺一鑫  曾用名贺鑫
+##  贺一鑫  英文名:Jeese
  
-### 曾用名贺鑫简述
+
  
 来个神奇的转折吧
  
-### 贺一鑫简述
+### *贺一鑫简述*
  
 
 
@@ -78,7 +78,7 @@ XXXXXXXXXXX
 
 
 
-#### 联系方式
+#### 联系方式: google@yixinsite.com
 ******
  
 你可以通过以下几种方式联系到我。
