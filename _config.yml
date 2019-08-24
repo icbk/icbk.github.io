@@ -21,10 +21,10 @@ links:
     url:          /road
     external:     false
   - name:         归档
-    url:          /interview
+    url:          /archives
     external:     false
   - name:         面试
-    url:          /archives
+    url:          /interview
     external:     false
   - name:         标签
     url:          /tags
