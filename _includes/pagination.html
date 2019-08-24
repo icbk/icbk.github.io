@@ -42,7 +42,7 @@
             {% endif %}
         </li>
         <li>
-		{% if paginator.total_pages == 1 %}
+		{% if paginator.total_pages == 0 %}
             <a href="#" data-hover="末页">
             {% else %}          
             <a href="/liberxuepage{{paginator.total_pages}}?liberxue" data-hover="末页">
