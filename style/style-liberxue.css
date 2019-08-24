@@ -390,7 +390,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	-webkit-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	transform: rotate(-45deg);
-	color: #313131;
+	color: white;
 	border: solid 2px currentColor;
 	border-radius: 50%;
 }
@@ -567,8 +567,11 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 }
 
 .navbar-menu a {
-	font-size: 14px;
+	font-size: 100%;
 	padding: 0 15px;
+	font-family: unset;
+	color: white;
+	font-weight: bold;
 }
 
 .navbar-mobile-menu {
