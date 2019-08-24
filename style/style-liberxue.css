@@ -506,8 +506,10 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	text-align: right;
 	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,.1);
 	-moz-box-shadow: 0 1px 5px rgba(0,0,0,.1);
-	background-image: (./images/header-background.png);
-	box-shadow: 0 1px 5px rgba(0,0,0,.1);
+	background-image: url(./images/header-background.png);
+	opacity: 0.7;
+	filter: drop-shadow(2px 4px 6px black);
+	box-shadow: 0 1px 5px rgba(0,0,0,0.07);
 }
 
 .header.animated {
