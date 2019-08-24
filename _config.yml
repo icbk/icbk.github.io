@@ -21,6 +21,9 @@ links:
     url:          /road
     external:     false
   - name:         归档
+    url:          /interview
+    external:     false
+  - name:         面试
     url:          /archives
     external:     false
   - name:         标签
