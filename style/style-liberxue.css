@@ -506,7 +506,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	text-align: right;
 	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,.1);
 	-moz-box-shadow: 0 1px 5px rgba(0,0,0,.1);
-	background-image: url(./images/header-background4.png);
+	background-image: url(./images/header-background.png);
 	opacity: 0.8;
 	filter: initial;
 	box-shadow: 0 1px 5px rgba(0,0,0,0.07);
