@@ -122,7 +122,7 @@ a {
  /* a:active,a:focus,a:hover{color:#eb5055;outline:0;}  */
 /* a:active,a:focus,a:hover{color:#eb5055;outline:0;} */
 a::before {
-	color: #eb5055;
+	color: #f78206;
 	content: attr(data-hover);
 	position: absolute;
 	outline: 0;
