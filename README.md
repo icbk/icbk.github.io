@@ -4,8 +4,10 @@
                 .::      .::.:: .::   .:   .::  .::       .::     .::  .:: .:   .:: 
                 .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
                 .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
-                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
-                          Copyright (c) 2016-2018 liberxue
+                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::
+                                                                                                                              
+                                                                                                                               
+                          Copyright (c) 2018-2019 Jeese
                                     http://heyixin.top
                            
-#### liberxue.github.io preview (demo) (http://heyixin.top)
+#### icbk.github.io preview (demo) (http://heyixin.top)
