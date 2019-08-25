@@ -560,6 +560,8 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	overflow: auto;
 	padding-top: 35%;
 	padding-bottom: 35%;
+	padding-left: 0;
+	padding-right: 35%;
 }
 
 .navbar-menu {
