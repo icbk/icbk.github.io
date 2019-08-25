@@ -557,6 +557,8 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {
 	height: 300%;
 	outline: 0;
 	margin: -22px 0px -22px -22px;
+	padding-top: 50%;
+	padding-bottom: 50%;
 }
 
 .navbar-menu {
